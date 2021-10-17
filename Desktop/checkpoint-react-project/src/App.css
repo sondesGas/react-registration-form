@@ -1,0 +1,35 @@
+.App {
+  background-image: url("https://cdn.wallpapersafari.com/60/1/x7lm1V.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100vw;
+  font-family: "Numans", sans-serif;
+}
+*[role="form"] {
+  max-width: 530px;
+  padding: 15px;
+  margin: 0 auto;
+  border-radius: 0.3em;
+  background-color: transparent;
+}
+
+*[role="form"] h2 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  color: #f57a07;
+  margin-top: 5%;
+  /* text-align: center; */
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.form-group {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  color: white;
+}
+span {
+  color: #070808;
+  font-size: 15px;
+}
